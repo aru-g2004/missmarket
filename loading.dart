@@ -24,7 +24,7 @@ class _loadingState extends State<loading> {
     });
 
     return Container(
-       color: Color.fromRGBO(159,107,225, 1),
+      color: Color.fromRGBO(245,181,255, 1),
       child: Column(children: [
         SizedBox(
           height: 200,
